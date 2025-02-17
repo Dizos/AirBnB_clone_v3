@@ -149,7 +149,5 @@ No known bugs at this time.
 
 ## Authors
 Tando Mjekula - [Github](https://github.com/Dizos) 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
